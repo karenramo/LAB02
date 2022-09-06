@@ -1,0 +1,45 @@
+*{
+  background-color: rgb(1, 3, 8);
+}
+td{
+  width: 800px;
+  height: 10px;
+}
+li{
+  color: rgb(7, 255, 255);
+}
+body{width:100%;}
+.atr{
+  color: rgb(255, 255, 255);
+  text-align: left;
+  margin-left: 50px;
+  font-family: "Sofia", sans-serif;
+}
+.new{
+  color: rgb(255, 255, 255);
+  text-align: left;
+  font-family: "Sofia", sans-serif;
+}
+.text {
+  color: azure;
+  margin-left: 50px;
+  text-align: left;
+  font-family: "Sofia", sans-serif;
+}
+.imagen {
+  padding: 10px; border: 2px solid rgb(7, 197, 255);
+  width: 306px;
+  height: 412px;
+  
+}
+.imagen:hover {
+  filter: grayscale(80%);
+}
+.columnaR {
+  width: 40%;
+  float: right;
+}
+.columnaL {
+  width: 40%;
+  float: left;
+}
